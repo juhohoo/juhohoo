@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @juhohoo
-- 👀 I’m interested in cool new tech related to AI and quantum computing.
-- 🌱 I’m currently studying data science at Helsinki University as my 2nd MSc degree.
-- 💞️ I’m looking to collaborate on cool new tech
+- 👀 I’m interested in new technology, such as AI, Machine Learning and Quantum Computing.
+- 🌱 I’m currently studying Data Science at the University of Helsinki to complete my second master's degree and working as an Engineer in the industry.
 - 📫 How to reach me: find me on Linkedin
 
 <!---
